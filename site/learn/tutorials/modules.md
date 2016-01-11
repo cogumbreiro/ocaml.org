@@ -49,7 +49,7 @@ our example, `bmodule.ml` could have been written:
 open Amodule;;
 hello ();;
 ```
-As a side note, people tend to avoid the ugly ";;", so it more common to
+As a side note, people tend to avoid the ugly ";;", so it is more common to
 write it like:
 
 ```ocaml
